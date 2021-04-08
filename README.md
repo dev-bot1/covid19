@@ -4,6 +4,6 @@ Coronavirus disease (COVID-19) is an infectious disease caused by a newly discov
 
 ## Describe your project
 
-This Uses a Simple Django and Python Framework and Thus creta a Real-Time Covid Tracking Website.
+This Uses a Simple Django and Python Framework and Thus create a Real-Time Covid Tracking Website.
 API for Covid Tracking:-https://rapidapi.com/api-sports/api/covid-193
 
